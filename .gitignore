@@ -22,3 +22,6 @@ vendor/bundler_gems
 config/database.ymlpublic/uploads
 tmp
 logs
+public/uploads
+tmp
+logs
